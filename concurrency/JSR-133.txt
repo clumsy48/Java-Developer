@@ -1,0 +1,1 @@
+Link - > http://download.oracle.com/otn-pub/jcp/memory_model-1.0-pfd-spec-oth-JSpec/memory_model-1_0-pfd-spec.pdf?AuthParam=1529956565_a5ba25d01bab51b9f4469722793dc33f
